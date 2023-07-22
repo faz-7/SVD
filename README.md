@@ -5,3 +5,5 @@ In this project, the Singular Value Decomposition (SVD) algorithm has been used 
 Various initiatives have been taken to implement the SVD algorithm on images in this project. In particular, the "add_noise" function has been used to add Gaussian noise to the image, and the "svd" function has been used to decompose the singular values of the image. Also, the "denoise_image" function has been implemented to remove noise from the image.
 
 The number given to the "denoise_image" function as input represents the number of singular values that remain in the image after noise removal. A larger number means keeping more singular values, which will result in a higher quality image but at the same time will preserve more noise. A smaller number means keeping fewer singular values, which will result in a lower quality image but at the same time will remove more noise.
+
+[![HXyXVKN.md.png](https://iili.io/HQqd6uf.png)](https://freeimage.host/i/HQqd6uf)
